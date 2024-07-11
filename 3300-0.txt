@@ -4495,7 +4495,7 @@ EMPLOYMENTS OF LABOUR AND STOCK.
       But the public would be a gainer, the work of all artificers coming in
       this way much cheaper to market.
 
-      It is to prevent his reduction of price, and consequently of wages and
+      It is to prevent this reduction of price, and consequently of wages and
       profit, by restraining that free competition which would most certainly
       occasion it, that all corporations, and the greater part of corporation
       laws have been established. In order to erect a corporation, no other
@@ -6540,7 +6540,7 @@ OF THE RENT OF LAND.
       a-quarter, equal to about eighteen shillings of our present money; 3dly,
       twenty quarters of oats, which cost four pounds, or four shillings
       a-quarter, equal to about twelve shillings of our present money. The
-      prices of malt and oats seem here to lie higher than their ordinary
+      prices of malt and oats seem here to be higher than their ordinary
       proportion to the price of wheat.
 
       These prices are not recorded, on account of their extraordinary dearness
@@ -13034,7 +13034,7 @@ OF THE DIFFERENT EMPLOYMENTS OF CAPITALS.
       imported from the coasts of the Baltic, are surely very useful to the
       countries which produce them. Those materials are a part of the surplus
       produce of those countries, which, unless it was annually exchanged for
-      something which is in demand here, would be of no value, and would soon
+      something which is in demand there, would be of no value, and would soon
       cease to be produced. The merchants who export it, replace the capitals of
       the people who produce it, and thereby encourage them to continue the
       production; and the British manufacturers replace the capitals of those
@@ -13108,7 +13108,7 @@ OF THE DIFFERENT EMPLOYMENTS OF CAPITALS.
       trade.
 
       The course of human prosperity, indeed, seems scarce ever to have been of
-      so long continuance as to unable any great country to acquire capital
+      so long continuance as to enable any great country to acquire capital
       sufficient for all those three purposes; unless, perhaps, we give credit
       to the wonderful accounts of the wealth and cultivation of China, of those
       of ancient Egypt, and of the ancient state of Indostan. Even those three
@@ -13146,7 +13146,7 @@ OF THE DIFFERENT EMPLOYMENTS OF CAPITALS.
       had both been employed in the agriculture or manufactures of that country,
       and thereby enables them to continue that employment. When it sends out
       from the residence of the merchant a certain value of commodities, it
-      generally brings hack in return at least an equal value of other
+      generally brings back in return at least an equal value of other
       commodities. When both are the produce of domestic industry, it
       necessarily replaces, by every such operation, two distinct capitals,
       which had both been employed in supporting productive labour, and thereby
@@ -13315,7 +13315,7 @@ OF THE DIFFERENT EMPLOYMENTS OF CAPITALS.
       demand of the home market requires. The surplus part of them, therefore,
       must be sent abroad, and exchanged for something for which there is a
       demand at home. It is only by means of such exportation, that this surplus
-      can acquired value sufficient to compensate the labour and expense of
+      can acquire a value sufficient to compensate the labour and expense of
       producing it. The neighbourhood of the sea-coast, and the banks of all
       navigable rivers, are advantageous situations for industry, only because
       they facilitate the exportation and exchange of such surplus produce for
@@ -13458,7 +13458,7 @@ OF THE NATURAL PROGRESS OF OPULENCE.
       the whole value of this carriage in the price of what they buy. Compare
       the cultivation of the lands in the neighbourhood of any considerable
       town, with that of those which lie at some distance from it, and you will
-      easily satisfy yourself bow much the country is benefited by the commerce
+      easily satisfy yourself how much the country is benefited by the commerce
       of the town. Among all the absurd speculations that have been propagated
       concerning the balance of trade, it has never been pretended that either
       the country loses by its commerce with the town, or the town by that with
@@ -14397,8 +14397,8 @@ AND TOWNS, AFTER THE FALL OF THE ROMAN EMPIRE.
       produce, and can purchase cheaper other conveniencies which they have
       occasion for. They are thus both encouraged and enabled to increase this
       surplus produce by a further improvement and better cultivation of the
-      land; and as the fertility of she land had given birth to the manufacture,
-      so the progress of the manufacture reacts upon the land, and increases
+      land; and as the fertility of the land had given birth to the manufacture,
+      so the progress of the manufacture re-acts upon the land, and increases
       still further its fertility. The manufacturers first supply the
       neighbourhood, and afterwards, as their work improves and refines, more
       distant markets. For though neither the rude produce, nor even the coarse
@@ -14845,7 +14845,7 @@ TO THE IMPROVEMENT OF THE COUNTRY.
       England. The law of the country has never given the same direct
       encouragement to agriculture.
 
-      The foreign commerce of Spain and Portual to the other parts of Europe,
+      The foreign commerce of Spain and Portugal to the other parts of Europe,
       though chiefly carried on in foreign ships, is very considerable. That to
       their colonies is carried on in their own, and is much greater, on account
       of the great riches and extent of those colonies. But it has never
@@ -14860,7 +14860,7 @@ TO THE IMPROVEMENT OF THE COUNTRY.
       Italy, according to Guicciardini, was cultivated not less in the most
       mountainous and barren parts of the country, than in the plainest and most
       fertile. The advantageous situation of the country, and the great number
-      of independent status which at that time subsisted in it, probably
+      of independent states which at that time subsisted in it, probably
       contributed not a little to this general cultivation. It is not
       impossible, too, notwithstanding this general expression of one of the
       most judicious and reserved of modern historians, that Italy was not at
@@ -34544,4 +34544,5 @@ OF PUBLIC DEBTS.
       their civil or military establishment in time of peace; and endeavour to
       accommodate her future views and designs to the real mediocrity of her
       circumstances.
+
 
